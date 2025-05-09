@@ -1,0 +1,30 @@
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\DataManagementRust.exe.config
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\DataManagementRust.exe
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\DataManagementRust.pdb
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\EntityFramework.dll
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\RustWPFApp.exe
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\RustWPFApp.pdb
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\RustWPFApp.exe.config
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\EntityFramework.xml
+C:\Users\junio\source\repos\DataManagementRust\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\junio\source\repos\DataManagementRust\obj\Debug\DataManagementRust.csproj.AssemblyReference.cache
+C:\Users\junio\source\repos\DataManagementRust\obj\Debug\DataManagementRust.csproj.CoreCompileInputs.cache
+C:\Users\junio\source\repos\DataManagementRust\obj\Debug\DataMana.4E0F62E3.Up2Date
+C:\Users\junio\source\repos\DataManagementRust\obj\Debug\DataManagementRust.exe
+C:\Users\junio\source\repos\DataManagementRust\obj\Debug\DataManagementRust.pdb
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\DataManagementRust.exe.config
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\DataManagementRust.exe
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\DataManagementRust.pdb
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\EntityFramework.dll
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\RustWPFApp.exe
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\RustWPFApp.pdb
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\RustWPFApp.exe.config
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\EntityFramework.xml
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\obj\Debug\DataManagementRust.csproj.AssemblyReference.cache
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\obj\Debug\DataManagementRust.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\obj\Debug\DataMana.4E0F62E3.Up2Date
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\obj\Debug\DataManagementRust.exe
+C:\Users\Ryan\Desktop\Programming Proj\DataManagementRust\obj\Debug\DataManagementRust.pdb
