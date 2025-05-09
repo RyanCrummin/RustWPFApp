@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RustWPFApp", "RustWPFApp.csproj", "{D8553307-0C87-4835-8378-9B9CB1E590BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagementRust", "..\DataManagementRust\DataManagementRust.csproj", "{1B4BBAAA-BD94-4292-8D7A-89085494FD14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8553307-0C87-4835-8378-9B9CB1E590BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8553307-0C87-4835-8378-9B9CB1E590BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8553307-0C87-4835-8378-9B9CB1E590BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8553307-0C87-4835-8378-9B9CB1E590BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4BBAAA-BD94-4292-8D7A-89085494FD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4BBAAA-BD94-4292-8D7A-89085494FD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4BBAAA-BD94-4292-8D7A-89085494FD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4BBAAA-BD94-4292-8D7A-89085494FD14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0967F48-E240-44B6-A8FF-88AA7EF4FB66}
+	EndGlobalSection
+EndGlobal

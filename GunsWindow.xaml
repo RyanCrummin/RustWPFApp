@@ -1,0 +1,60 @@
+﻿<Window x:Class="RustWPFApp.GunsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RustWPFApp"
+        mc:Ignorable="d"
+        Title="GunsWindow" Height="650" Width="900"
+        MinHeight="650" MinWidth="900"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Grid.OpacityMask>
+            <ImageBrush TileMode="Tile" ImageSource="/Rust_Hazmat_DomeSilhouette.jpg"/>
+        </Grid.OpacityMask>
+        <Grid.Background>
+            <ImageBrush TileMode="None" Stretch="Fill" ImageSource="/Rust_Hazmat_DomeSilhouette.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.25*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="mainMenuBTN" Margin="0,1,5,10" Click="mainMenuBTN_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/Rust logo.jpg" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="gunsBTN" Content="" Margin="69,0,69,0" Grid.Column="1">
+            <Button.Background>
+                <ImageBrush ImageSource="/gunsBTN.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="itemsBTN" Content="" Grid.Column="2" Margin="68,1,67,0" Click="itemsBTN_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/ItemsBTN.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="animalsBTN2" Content="" Grid.Column="3" Margin="69,1,69,0" Click="animalsBTN2_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/animalsBTN.jpg"/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="searchTxtBox" HorizontalAlignment="Center" Margin="0,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Search item" VerticalAlignment="Top" Width="69" TextChanged="searchTxtBox_TextChanged" GotFocus="searchTxtBox_GotFocus"/>
+        <Button x:Name="searchBTN" Content="Search" HorizontalAlignment="Left" Margin="12,38,0,0" Grid.Row="1" VerticalAlignment="Top" Click="searchBTN_Click"/>
+        <StackPanel x:Name="gunNameStckPanel" Grid.Row="1" Grid.ColumnSpan="2" Margin="69,105,0,10" Grid.RowSpan="5"/>
+        <StackPanel x:Name="gunDescStackPanel" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Margin="277,105,0,0" Grid.RowSpan="5"/>
+    </Grid>
+</Window>
